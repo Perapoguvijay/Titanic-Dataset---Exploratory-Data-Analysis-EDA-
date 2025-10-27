@@ -1,7 +1,5 @@
 # Titanic-Dataset---Exploratory-Data-Analysis-EDA
 
-# 🛳️ Titanic Dataset - Exploratory Data Analysis (EDA)
-
 ## 📘 Project Overview
 This project explores the **Titanic dataset** to identify key factors that influenced passenger survival.  
 The dataset contains demographic, social, and economic information about passengers aboard the Titanic.  
@@ -55,3 +53,4 @@ The goal is to perform **data cleaning, visualization, and statistical analysis*
 - The dataset demonstrates how exploratory data analysis can uncover insights before building predictive models.
 
 # Open Jupyter Notebook
+task-5 EDA Titanic data.ipynb
